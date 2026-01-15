@@ -1,21 +1,20 @@
-<h1 align="center">Hi 👋, I'm Prem Shankar Rai</h1>
+<h1 align="center">Hi, I'm Prem Shankar Rai</h1>
 <h3 align="center">Full Stack Developer | Computer Science Engineering Student | MERN Stack</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 Computer Science and Engineering student with a strong foundation in software development
-- 💻 Full Stack Developer specializing in the **MERN stack**
-- 🚀 Passionate about building scalable, user-focused web applications
-- 📚 Currently deepening my knowledge in **Backend Development** and **DevOps**
-- 💬 Comfortable working with **JavaScript, React, Node.js, Express.js, MongoDB, Git**
-- 📫 Contact: **premshankarrai2005@gmail.com**
+- Computer Science and Engineering student with a strong foundation in software development  
+- Full Stack Developer specializing in the **MERN stack**  
+- Passionate about building **scalable, user-focused web applications**  
+- Exploring **Backend Development** and **DevOps**  
+- Skilled in **JavaScript, React, Node.js, Express.js, MongoDB, Git**  
+- Reach me at **[premshankarrai2005@gmail.com](mailto:premshankarrai2005@gmail.com)**
 
 ---
-\
 
-### 🛠️ Languages & Tools
+### 🛠️ Skills & Tools
 
 **Frontend:**  
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -38,31 +37,25 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
-
-
-
 ---
 
 ### 🚀 Featured Projects
 
-- 🌐 **Personal Portfolio** – [premportfolio.me](https://premportfolio.me)
-- 🌐 **Conference Website** – [View Repository](https://github.com/premshankarrai2005/Conference)
-- 💼 **Freelancing Platform UI** – [View Repository](https://github.com/premshankarrai2005/Freelancing-Website)
-- 🗂 **Notion-Style Websites** – [View Repository](https://github.com/premshankarrai2005/Notion-Websites)
-- 🌍 **Travel Website** – [View Repository](https://github.com/premshankarrai2005/travels-website)
-
+- **[Personal Portfolio](https://premportfolio.me)** – Showcase of my work and projects  
+- **[Conference Website](https://github.com/premshankarrai2005/Conference)** – Fully responsive, event-focused website  
+- **[Freelancing Platform UI](https://github.com/premshankarrai2005/Freelancing-Website)** – User-friendly UI for freelancers  
+- **[Notion-Style Websites](https://github.com/premshankarrai2005/Notion-Websites)** – Clone of Notion layouts with React  
+- **[Travel Website](https://github.com/premshankarrai2005/travels-website)** – Dynamic travel booking website  
 
 ---
-
 
 ### 🤝 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://premportfolio.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prem-shankar-rai-11910728a/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:premshankarrai2005@gmail.com)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://premportfolio.me)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prem-shankar-rai-11910728a/)  
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:premshankarrai2005@gmail.com)  
 
 ---
 
-> *“Strive not just to write code that works, but to build software that lasts.”*
+> *“Strive to build software that lasts — not just code that works.”*
+
